@@ -1,0 +1,7 @@
+Important Links:
+https://swalehcharles.medium.com/how-to-install-apache-kafka-on-debian-1f0bbbb39349
+
+https://www.datacamp.com/tutorial/apache-kafka-for-beginners-a-comprehensive-guide
+
+https://pandeyshikha075.medium.com/getting-started-with-confluent-kafka-in-python-579b708801e7
+
