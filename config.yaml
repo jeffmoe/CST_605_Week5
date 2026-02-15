@@ -1,0 +1,15 @@
+kafka:
+  bootstrap.servers:
+    - "localhost:9092"
+  topic_name: "minneapolis-current-weather"
+  num_partitions: 3
+  rep_factor: 1
+
+api:
+  url: "http://api.weatherstack.com/"
+  interval_sec: 5
+
+processing:
+  visualization_interval_sec: 5
+  max_buffer_size: 1000
+  visualization_dir: "visuals"
